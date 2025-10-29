@@ -1,6 +1,6 @@
 # Analisis Data Eksploratif (EDA) Kelangsungan Hidup Kapal Titanic
 
-## Ikhtisar Proyek
+## Ringkasan Proyek
 
 Proyek ini bertujuan untuk melakukan **Analisis Data Eksploratif (EDA)** terhadap *dataset* kelangsungan hidup penumpang Kapal Titanic (`tested.csv`). Analisis ini berfokus pada identifikasi dan pemahaman faktor-faktor kunci yang berkorelasi kuat dengan peluang seorang penumpang untuk selamat, seperti **Jenis Kelamin (`Sex`)**, **Kelas Penumpang (`Pclass`)**, dan **Usia (`Age`)**.
 
