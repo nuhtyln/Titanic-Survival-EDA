@@ -1,14 +1,9 @@
-# Isi .gitignore
-# Cache Python
 __pycache__/
 
-# Cache Jupyter Notebook
 .ipynb_checkpoints/
 
-# Environment Virtual (jika ada)
 venv/
 env/
 
-# Files sistem operasi
 .DS_Store
 Thumbs.db
